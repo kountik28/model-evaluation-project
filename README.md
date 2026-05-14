@@ -9,13 +9,6 @@ This project focuses on evaluating a machine learning model using:
 - Confusion Matrix
 - Classification Report
 
-Tools Used:
-- Python
-- Scikit-learn
-- Pandas
-- Matplotlib
-- Seaborn
-
 # 🤖 Model Evaluation Project (Machine Learning)
 
 ## 📌 Overview
